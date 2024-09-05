@@ -22,7 +22,7 @@
     "etag": "^1.0.0"
   },
   "dependencies": {
-    "fetch-factory": "^0.0.1",
+    "fetch-factory": "^0.2.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-is": "^18.2.0",
