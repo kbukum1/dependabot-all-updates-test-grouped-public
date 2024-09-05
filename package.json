@@ -1,0 +1,33 @@
+{
+  "name": "npm-test",
+  "version": "1.0.0",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "npm-test",
+      "version": "1.0.0",
+      "license": "ISC"
+    },
+    "node_modules/encoding": {
+      "version": "0.1.12",
+      "resolved": "https://registry.npmjs.org/encoding/-/encoding-0.1.12.tgz",
+      "integrity": "sha1-U4tm8+5izRq1HsMjgp0flIDHS+s=",
+      "dependencies": {
+        "iconv-lite": "0.4.19"
+      }
+    }
+  },
+  "devDependencies": {
+    "etag": "^1.0.0"
+  },
+  "dependencies": {
+    "fetch-factory": "^0.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-is": "^18.2.0",
+    "react-redux": "^8.1.2",
+    "react-router": "^6.15.0",
+    "react-router-dom": "^6.15.0"
+  }
+}
